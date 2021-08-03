@@ -24,3 +24,8 @@ On our Spigot/Bukkit plugin, we support "In-game payments". This allows the buye
 - You can change all inventory options at our dashboard [ Settings -> Plugin Menu ]
 - You can change all "Error" messages (that may be server-specific) in the config.yml of the CraftingStore plugin
 > not-enough-balance-message: "&4You do not have enough in-game money in your account! You can also buy this package on the website:"
+
+### Unsupported features
+- No Discord roles can be given, as the user cannot login to Discord.
+- No Gift-cards can be given, as the user cannot enter their email.
+- Other, smaller features may also not work with in-game payments.
