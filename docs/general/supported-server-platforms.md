@@ -9,7 +9,13 @@ Our plugin supports CraftBukkit, Spigot and related forks like PaperSpigot. This
 A bungeecord proxy is used to link together multiple Spigot servers, our plugin allows you to run commands on the proxy itself   
 when somebody buys a package, you can, for example, alert the purchase on the whole network.
 
-**Velocity** Velocity is a proxy that can be used to link multiple servers together. Its an alternative to Bungeecord. **Oxide/uMod** Our Oxide mod allows your Rust server to run commands that are configured. **Sponge**  
+**Velocity**  
+Velocity is a proxy that can be used to link multiple servers together. Its an alternative to Bungeecord. 
+
+**Oxide/uMod**  
+Our Oxide mod allows your Rust server to run commands that are configured. 
+
+**Sponge**  
 Our plugin has full support for SpongePowered servers.
 
 **RCON &amp; RCON Web**  
