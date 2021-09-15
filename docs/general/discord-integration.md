@@ -4,7 +4,7 @@ We offer the ability for packages to also give a user role on the Discord server
 
 ##### How do I configure my server?
 
-1\. Invite our Discord bot to your server ([click here!](https://discordapp.com/oauth2/authorize?client_id=609778062292287514&scope=bot&permissions=0) &lt;- To invite the bot)  
+1\. Invite our Discord bot to your server ([click here!](https://discordapp.com/oauth2/authorize?client_id=609778062292287514&scope=bot%20applications.commands&permissions=0) &lt;- To invite the bot)  
 2\. Create a server from the dashboard ([by clicking here](https://dash.craftingstore.net/admin/servers/create)), and select the "Discord" server type.  
 3\. Click "set-up" after creating the server.  
 4\. Give the bot enough permissions, it needs to: assign roles and manage members. It also needs to be physically above the roles you are trying to give in the roles section. Or else it is not able to issue the roles.  
