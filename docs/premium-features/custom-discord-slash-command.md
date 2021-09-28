@@ -17,3 +17,7 @@ This will be parameter shown that they have to enter. The player received their 
 
 **Custom slash command parameter description**  
 Describe what the user should enter (e.g. "The code you received in your email")    
+
+---
+**Not seeing your new slash command?**  
+Please try to re-invite our bot using the link in our "Discord integration" article: https://help.craftingstore.net/general/discord-integration. The bot needs the "Commands" scope. If you invited the bot before september, 2021, it does not have that access. So we cannot create custom slash commands on your server. The new invite link does include it.
