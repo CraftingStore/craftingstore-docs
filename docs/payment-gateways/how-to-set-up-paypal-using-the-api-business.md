@@ -25,3 +25,7 @@ First, we need to create a "PayPal App client ID", and "PayPal App Secret". To d
 7\. Click "done" and click "Update gateways"
 
 PayPal is now enabled, when the first transaction comes in, we will create a webhook within this app to notify us about payment/subscription updates.
+
+### Common issues
+##### I'm getting an error on checkout
+Make sure that the credentials entered are valid. Also make sure that they are actually "Live" credentials. We are sending requests to the live version of PayPal to create your payment (so the user has to pay using their real account). Credentials meant for their testing version will not work.
