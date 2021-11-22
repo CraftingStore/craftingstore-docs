@@ -37,7 +37,7 @@ For Minecraft bedrock edition, you can use RCON to accept donations on your serv
 You can use our uMod plugin for the Oxide/uMod platform.
 
 1. Create a new server ([click for guide](/general/how-to-create-a-server))
-2. Download the plugin: 
+2. Download the plugin: ([click for download](https://umod.org/plugins/crafting-store))
 3. Restart the server, or load the plugin.
 4. Open the config file, located at the default location for Oxide/uMod plugins.
 5. Add your API key, as created at step one.
