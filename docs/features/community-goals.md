@@ -2,7 +2,7 @@
 
 With community goals, you can stimulate your players to donate to your game server. A community goal can result in commands being executed on any/some of your servers, you can start something like a drop-party, or a global multiplier. You can configure what packages should count towards this community goal, and show a widget/module on your shop to show your players how it's going.
 
-##### How to set up the community goal
+### How to set up the community goal
 
 1\. Go to the "Engagement" tab in the sidebar  
 2\. Click on "Community Goals"  
@@ -16,7 +16,7 @@ With community goals, you can stimulate your players to donate to your game serv
 **Packages**: The packages that you want this goal to apply to, you can have multiple goals, even with the same packages.  
 **Commands**: The commands that should be executed when this goal is reached, you cannot use placeholders in here.
 
-##### Showing the community goal on your store
+### Showing the community goal on your store
 
 You can create a module that will show the goal on your store, to create the module follow these steps:  
 1\. Go to the "Design" tab.  
