@@ -1,31 +1,30 @@
 #My commands do not run on the server
 
-If the commands on your server do not run, there are various reasons for why this is, please make sure the following points are checked:
+If the commands on your server do not run, there are various reasons for why this is, follow the steps below.
 
-**1. Make sure that you do not put a slash before the command;**  
-The command `/say test` has to be set like `say test`.
+### Command prefix
+You should not use a slash (/) in front of the command, the command `/say test` has to be configured like `say test`.
 
-**2. Make sure that the plugin is loaded correctly;**  
+### Check plugin
 Make sure that the plugin works, try to run /craftingstore (/csb on bugneecord) to see if the plugin responds.
 
-**3. Check the console;**  
-The plugin will give information about its status, it will tell you in the console (when it starts) if it worked as expected and if the server key is valid.
+### Check console
+The plugin will give information about its status, it will tell you in the console (when it starts) if it worked as expected and if the server key is valid. If the plugin fails to connect or if the key is not valid, it will tell you in the console.
 
-**4. Make sure that you have confirmed the API key;**  
-Every server needs to communicate using our API, you can get the key from \[ CraftingStore Dashboard -&gt; Servers \].
+### Check server
+Every server needs to communicate using our API, you can get the key from \[ CraftingStore Dashboard -&gt; Servers \]. Make sure that you actually configured the plugin to connect.
 
-**5. Make sure that every server has its own API key;**  
-When two servers use the same key, they will both fail to work. If you run a BungeeCord network, every server needs it's own key as well.
+Also when two servers use the same key, they will both fail to work. If you run a BungeeCord network, every server needs it's own key as well.
 
-**6. Make sure the commands can actually run in the console;**  
-Some commands will not run in the console, this includes commands that are not "real", like commands from MyCommand. These will not work with CraftingStore.
+### Console commands
+Some commands will not run in the console, this includes commands that are not "real", like commands from MyCommand. These will not work with CraftingStore. This will only be a tiny fraction of your commands.
 
-**7. Create a support ticket if the issues are still there;**  
-To make the process as fast as possible, we'll need some information.   
+### Create a ticket
+To make the process as fast as possible, we'll need some information, as the steps below did not solve the issue for you. Please share with us: 
 \- Enable debug mode ([more info on that here!](/plugin-help/how-to-enable-debug-mode))  
 \- Share all messages that start with \[CraftingStore\] using a service like hastebin.com (share the link)  
 \- Share the exact server version; Spigot 1.15.x build x  
 \- Share the java version of your server  
 \- Share any steps you took to install the plugin, so we can figure out what went wrong.  
   
-Debugging issues with commands can be hard, we have no easy way of telling you what went wrong, we'll need to figure it out with you. Every server set-up is different, so please be as as complete as possible.
+Debugging issues with commands can be hard, we have no easy way of telling you what went wrong, we'll need to figure it out with you. Every server set-up is different, so please be as as complete as possible. Just creating a ticket with "my commands do not run" is not helpful.
