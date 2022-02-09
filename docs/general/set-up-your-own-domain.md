@@ -2,10 +2,10 @@
 
 We offer the ability to use your own (sub)domain for your webstore. This is available for all the plans.
 
-**What is a custom domain?**  
+### What is a custom domain?
 You can choose a subdomain on our root domain (yourwebstore.craftingstore.net), but some server owners want the ability to use their own domain instead. So instead of craftingstorecraft.craftingstore.net, your domain will be something like: store.craftingstorecraft.com (you'll need to own "craftingstorecraft.com" in this example)
 
-**How do I set-up my own domain?**  
+### How do I set-up my own domain?
 1\. First, open the CraftingStore dashboard and go to the domain section \[ Sidebar -&gt; Settings -&gt; Domain \]. And click on "Set-up new domain". Now we'll give you two DNS records that you'll have to create.  
   
 2\. Open up the DNS manager from the domain provider that you are using, and create a new DNS records (scroll down to the bottom for examples). Please make sure that there is no DNS record that is conflicting (for example, an old record on the same name from a old platform that you used before).
@@ -25,9 +25,10 @@ You can choose a subdomain on our root domain (yourwebstore.craftingstore.net), 
 
 Now your custom domain is set! It might take up to 24 hours for the DNS change to complete, this is based on the DNS/Domain Provider. Make sure that you have crated the records correctly, or you would be waiting for nothing. Most domain providers have documentation &amp; examples, we also describe some providers below.
 
-**Some examples on different domain providers:** Replace "xxx-xxx" with the value provided at the domain section on the dashboard.
+### Examples on different domain providers
+Make sure to replace the value with the information shown at [ Settings -> Domain ]
 
-##### GoDaddy
+#### GoDaddy
 
 Type: *CNAME*  
 Host: *store*  
@@ -39,7 +40,7 @@ Host: verify.store
 Value: xxx-xxx  
 TTL: 1/2 hour*
 
-##### *DirectAdmin*
+#### DirectAdmin
 
 Type*: CNAME* Left Field*: store* Right field: *xxx-xxx.dns.craftingstore.net. (note the dot at the end, it is required and will not work without it)* TTL*: Default*
 
@@ -48,7 +49,7 @@ Left Field: verify.store
 Right field: xxx-xxx  
 TTL: Default*
 
-##### *NameCheap*
+#### NameCheap
 
 Type*: CNAME Record* Host*: store* Value*: xxx-xxx.dns.craftingstore.net. (note the dot at the end, it is required and will not work without it)* TTL*: 30 min*
 
@@ -57,7 +58,7 @@ Host: verify.store
 Value: xxx-xxx  
 TTL: 30 min*
 
-##### *UpHosted*
+#### UpHosted
 
 *Type: CNAME Record  
 Host: store  
@@ -69,7 +70,7 @@ Host: verify.store
 Value: xxx-xxx  
 TTL: 15 minutes*
 
-##### *CloudFlare*
+#### CloudFlare
 
 Type*: CNAME* Name*: store* Domain name*: xxx-xxx.cfdns.craftingstore.net Automatic TTL* Orange Cloud: *Make sure that this one is on, the requests must go through Cloudflare, or they will fail. For cloudflare we use servers that only work inside of their network. You can use SSL/TLS mode: Full or Flexible, not full strict.*
 
@@ -78,7 +79,7 @@ Name: verify.store
 Content: xxx-xxx  
 Automatic TTL*
 
-##### *OVH*
+#### OVH
 
 Pointer Records: *CNAME* Sub-domain*: store* TTL*: By Default* Target*: xxx-xxx.dns.craftingstore.net. (note the dot at the end, it is required and will not work without it)*
 
