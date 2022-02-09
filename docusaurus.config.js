@@ -19,7 +19,7 @@ module.exports = {
       items: [],
     },
     colorMode: {
-      defaultMode: 'dark',
+      defaultMode: 'light',
       disableSwitch: false,
     }
   },
