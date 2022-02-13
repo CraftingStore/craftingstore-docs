@@ -1,6 +1,6 @@
 #How to install the plugin?
 
-##### Minecraft: Java Edition - Spigot, Bukkit, Sponge, and BungeeCord
+### Minecraft: Java Edition - Spigot, Bukkit, Sponge, and BungeeCord
 
 Our plugin works on Spigot, Craftbukkit, BungeeCord, Sponge, and Velocity. It will also work on some Spigot forks, like PaperSpigot. This guide will help you to set-up the plugin on Spigot and Craftbukkit.
 
@@ -17,7 +17,7 @@ You are now ready to accept donations!
 
 - - - - - -
 
-##### Minecraft: Bedrock / Pocket Edition
+### Minecraft: Bedrock / Pocket Edition
 
 For Minecraft bedrock edition, you can use RCON to accept donations on your server. We do not (yet) have the /buy menu in this version, just command processing. This guide is for Pocketmine-MP, but it will work on every piece of software that supports RCON.
 
@@ -32,7 +32,7 @@ For Minecraft bedrock edition, you can use RCON to accept donations on your serv
 
 - - - - - -
 
-##### Rust &amp; Hurtworld
+### Rust &amp; Hurtworld
 
 You can use our uMod plugin for the Oxide/uMod platform.
 
@@ -43,4 +43,4 @@ You can use our uMod plugin for the Oxide/uMod platform.
 5. Add your API key, as created at step one.
 6. Reload the CraftingStore plugin
 
-**Note**: Our uMod/Oxide plugin does not support our "Instant payment processing" feature, executing commands can take up to 5 minutes. If you want to have instant payment processing (so your users don't have to wait 5 minutes to get their items), you'll need to use RCON instead. RCON is a well known way to execute console commands in many game servers, including, but not limited to: Oxide, Minecraft, Hurtworld, Source games (Gmod for example). There are lots of tutorials to set this up. You only need to enter your credentials at the CraftingStore dashboard, and you're set.
+**Important**: Our uMod/Oxide plugin does not support our "Instant payment processing" feature, executing commands can take up to 5 minutes. If you want to have instant payment processing (so your users don't have to wait 5 minutes to get their items), you'll need to use RCON instead. RCON is a well known way to execute console commands in many game servers, including, but not limited to: Oxide, Minecraft, Hurtworld, Source games (Gmod for example). There are lots of tutorials to set this up. You only need to enter your credentials at the CraftingStore dashboard, and you're set.
