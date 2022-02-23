@@ -2,6 +2,7 @@
 
 When creating or editing your category, you can enable "Cumulative packages", this feature allows you to give users discounts based on the packages they bought earlier.
 
+### Example
 Let's say you have 3 packages on your store;
 
 Rank A: 10 USD  
@@ -16,7 +17,7 @@ Rank C: 30 USD 20 USD
   
 This way the player can just upgrade their rank, without paying extra for it.
 
-## Respect sale calculation
+### Respect sale calculation
 
 Lets say, you have two packages, rank A: 10 USD, and rank B: 20 USD
 
@@ -26,7 +27,7 @@ So now, if you'll add a 50% discount to rank B, the new price for this rank will
 
 When the user that already bought rank A comes along, and sees that rank B only costs 10 USD now, they can buy it for free. Because they return their Rank A (they will get their 10 USD back). And with that 10 USD, they order the new rank, Rank B.
 
-## How to enable the feature?
+### How to enable the feature?
 You can enable it by editing the category and turning on "Does this category have cumulative packages?".
 
 \---  
