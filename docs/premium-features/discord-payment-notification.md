@@ -2,7 +2,7 @@
 
 Gold stores can set-up discord notifications. When you receive a payment, we'll send you a message using Discord's webhooks.
 
- **How do I set this up?**  
+### How do I set this up?
 1\. Open your discord server settings.   
 2\. Click "webhooks". You need to have permission for this on the server.  
 3\. Click "Create webhook", and give your bot a name.   
@@ -12,7 +12,7 @@ Gold stores can set-up discord notifications. When you receive a payment, we'll 
 7\. Enable Discord notifications and paste your webhook URL in the "Webhook URL" box.   
 8\. You're set!
 
-**Variables you can use**  
+### Variables you can use
 *{packageName}* = The name of the package  
 *{gateway}* = The payment method used  
 *{player}* = The name of the player  

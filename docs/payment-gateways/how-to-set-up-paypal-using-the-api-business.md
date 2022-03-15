@@ -2,7 +2,7 @@
 
 We offer direct PayPal integration into our platform, we have two types of integration; PayPal Legacy (for personal accounts) ([click here for the article](/payment-gateways/how-to-set-up-paypal-legacypersonal)). And this one, using the PayPal API. This integration allows us to have more control and offer more features (like Subscriptions). A PayPal business account is required, it will not work on personal accounts.
 
-##### Getting your credentials &amp; setting it up
+### Getting your credentials &amp; setting it up
 
 First, we need to create a "PayPal App client ID", and "PayPal App Secret". To do this, follow the steps;
 
@@ -27,5 +27,8 @@ First, we need to create a "PayPal App client ID", and "PayPal App Secret". To d
 PayPal is now enabled, when the first transaction comes in, we will create a webhook within this app to notify us about payment/subscription updates.
 
 ### Common issues
-##### I'm getting an error on checkout
+#### I'm getting an error on checkout
 Make sure that the credentials entered are valid. Also make sure that they are actually "Live" credentials. We are sending requests to the live version of PayPal to create your payment (so the user has to pay using their real account). Credentials meant for their testing version will not work.
+
+### What is the difference between Legacy and Business?
+The Legacy integration uses PayPal payment buttons. It works on almost any account, including personal accounts. The Business integration uses the PayPal orders API that offers a lot of control and implements features like subscriptions.

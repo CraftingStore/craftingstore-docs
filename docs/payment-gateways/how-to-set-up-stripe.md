@@ -6,7 +6,7 @@ Stripe is a payment gateway that can be used for Creditcards and various other p
 2\. Copy your publishable key &amp; secret key, and paste them into the Stripe section on the gateways tab (CraftingStore dashboard -&gt; Payments -&gt; Gateways)  
 3\. Now you are ready to accept Stripe payments
 
-##### Chargeback handling
+### Chargeback handling
 
 CraftingStore has the ability to execute commands when a chargeback gets through. To make use of this, you'll have to configure a webhook at Stripe. The base implementation works without this, but chargebacks wont.
 

@@ -2,7 +2,7 @@
 
 With the silver plan and higher, you can use Gift-cards, and sell them on your store. You can configure packages to give the user a gift-card in their mail.
 
-##### How to set this up?
+### How to set this up?
 
 1\. First, go to the package that you want to have this functionality and open the "Advanced" tab.  
 2\. Look for the "Mail Gift-card option" and enable it. Then you can set the amount the card must be worth.  
@@ -12,7 +12,7 @@ With the silver plan and higher, you can use Gift-cards, and sell them on your s
 
 [![YBSWj75zWl.png](/img/premium-features/selling-gift-cards-on-your-store/nhhtyh2uq8.png)](/img/premium-features/selling-gift-cards-on-your-store/4ancivsfoa.png)
 
-##### Common issues
+### Common issues
 
 **The user is not getting the receipt**  
 The reason for this might be because you do not have the receipt enabled. You can enable it by going to \[ Settings -&gt; Webshop -&gt; E-mail receipt to client \].   

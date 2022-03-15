@@ -1,5 +1,12 @@
 #Does CraftingStore take a cut off my money?
 
-We do **not** take any amount or percentage of payments passing though CraftingStore.
+When doing payments online, there are always fees, as that is how payment providers make money.
 
-But payment providers (like PayPal) will charge you a transaction fee for using their service, so you will not get 100% of your money, as these services do take a cut.
+### Does CraftingStore charge transaction fees?
+We do not, our income comes from stores upgrading to our premium plans, not from taking a cut.
+
+### Who does take fees?
+Any payment provider, like: PayPal, Stripe, Mollie, etc. They all take a cut.
+
+### How much are the fees from payment providers?
+That is hard to say, it depends. PayPal charges different fees based on where the buyer is from, what currency they use, and what rate you have. The same is true for other payment providers, like Stripe.

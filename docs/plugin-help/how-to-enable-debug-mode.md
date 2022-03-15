@@ -1,11 +1,11 @@
 #How to enable debug mode?
 
-**Spigot/CraftBukkit/BungeeCord:**  
+### Spigot/CraftBukkit/BungeeCord:
 1) Open the config located in /plugins/CraftingStore/config.yml  
 2\) Add the line: debug: true to the end of the file, under the other config options.  
 3\) Save the config and restart your server.
 
-**SpongePowered:**  
+### SpongePowered:
 1) Open the config located in /config/craftingstore/craftingstore.conf  
 2\) Add debug mode to the config like so:  
 ```
