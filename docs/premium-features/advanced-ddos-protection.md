@@ -18,3 +18,6 @@ We use Cloudflare's SSL for SaaS to protect external hostnames like yours. You d
 
 ### What is "always-on"
 Always-on means that traffic will always pass through filtering infrastructure, in this case, Cloudflare's network. On-demand means that we analyze the traffic comming on to our servers, and once we notice that your store receives a DDoS attack, we'll put it behind a specialized DDoS Protection provider. This might mean that the store will be slow, or offline for a few minutes while protection kicks in if the attack is very big. This is not a consern on always-on systems.
+
+### What if I want to downgrade to a lower plan?
+When using a custom domain that is not on Cloudflare you'll have to move to the on-demand protection. This means that you'll have to update your DNS. Instructions for this can be found at [ Settings -> Domain ].
