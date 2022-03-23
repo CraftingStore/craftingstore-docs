@@ -22,8 +22,6 @@ Depending on how you use your store, we have several paths to take. For example,
 When you use our domain for your store, we will put it behind Cloudflare all the time (always-on) instead of only when attacked (on-demand). This will make sure that your store receives the best protection possible.
 
 #### External domain not on Cloudflare
-**Note**: External domain protection is currently in active development. It will be released shortly!
-
 When you use a custom domain and you are not using Cloudflare yourself, we will pass your store through Cloudflare using Cloudflare's SSL for SaaS. This means that Cloudflare will protect your store against DDoS attacks.
 
 #### External domain on Cloudflare
