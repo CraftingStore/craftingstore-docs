@@ -1,6 +1,6 @@
 #Always-On DDoS Protection
 
-For stores on our Platinum plan we use Cloudflare's DDoS Protection (always-on).
+For stores on our Platinum plan we use Cloudflare's DDoS Protection (always-on). On all other plans we use a mix of providers and services depending on the state of the domain (e.g. under attack or not).
 
 ### What does "Always-On" mean?
 There are two ways to protect systems, you can either use on-demand protection or always-on protection. 
