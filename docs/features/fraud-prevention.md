@@ -15,10 +15,10 @@ It does not, but it does lower the risk of getting them. As CraftingStore is not
 With our fraud prevention system, a chargeback towards one store will increase the buyer's risk score across our entire platform. So if they do a chargeback on your store, they might not be able to buy anything on any other store hosted by us. They will effectively be blocked globally and have to ask the store owner to whitelist them.
 
 ### How do I enable this feature?
-You can enable it by going to [ Webstore -> Fraud Prevention ].
+You can enable it by going to [ Payments -> Fraud Prevention ].
 
 ### Can I whitelist users?
-Yes! You can go to [ Webstore -> Fraud Prevention -> Whitelisted users ]. You can whitelist them by name or UUID.
+Yes! You can go to [ Payments -> Fraud Prevention -> Whitelisted users ]. You can whitelist them by name or UUID.
 
 ### Different modes
 There are different modes, we'll describe them here.
