@@ -54,6 +54,8 @@ We use a few services for hosting our assets, in the start of 2022 we moved over
 
 We store every file a few times ourselves, we use two S3 providers, both of those providers offer 99.999999999% data durability, as they store the data on a bunch of servers instead of one. And we use Bunny as described, they store it at least twice as well. 
 
+For fetching the data, we first let Bunny handle it, if they are down, it will reach one of our own load balancers through Cloudflare. First, it will try to fetch it from our primary S3 provider, and if that fails, it will try our other S3 provider (located in another country). 
+
 #### Miscellaneous services
 We also have other services, like renewing and requesting certificates for stores, these are also geo-redundant. We expect that some servers can be down for hours for any reason. So we designed these supporting services to deal with that. Certificate uploads to our edge servers will happen when they are ready for it.
 
