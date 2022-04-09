@@ -9,7 +9,7 @@ Our fraud prevention is currently in beta, we have seen a lot of chargebacks hap
 The feature will check the buyer before they start the payment process, we will calculate a "risk score" for this specific user based on their purchase history on our entire platform. 
 
 ### Does this mean that I do not have to deal with chargebacks?
-It does not, but it does lower the risk of getting them. As CraftingStore is not your payment provider (see: [**How do payments work**](/payment-gateways/how-do-payments-work)) we cannot handle chargebacks on your behave, but we can lower the risk by blocking known buyers that chargeback. 
+It does not, but it does lower the risk of getting them. As CraftingStore is not your payment provider (see: [**How do payments work**](/payment-gateways/how-do-payments-work)) we cannot handle chargebacks on your behalf, but we can lower the risk by blocking known buyers that charge back. 
 
 ### How can I discourage buyers from doing a chargeback?
 With our fraud prevention system, a chargeback towards one store will increase the buyer's risk score across our entire platform. So if they do a chargeback on your store, they might not be able to buy anything on any other store hosted by us. They will effectively be blocked globally and have to ask the store owner to whitelist them.
