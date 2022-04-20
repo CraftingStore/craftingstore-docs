@@ -8,7 +8,9 @@ You can use various placeholders for commands. These will be replaced with actua
 
 `{uuid_dashed}` - The dashed UUID of the player that donated
 
-`{package_name}` - The name of the package that's bought
+`{package_name}` - The name of the package that was bought, useful for server-specific commands
+
+`{packages}` - A comma separated list of packages that were bought, useful for global commands
 
 `{ingame_package_name}` - The name of the package, but with formatting.
 
