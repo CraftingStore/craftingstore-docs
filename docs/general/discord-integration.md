@@ -1,6 +1,6 @@
 #Discord integration
 
-We offer the ability for packages to also give a user role on the Discord server
+We offer the ability for packages to also give a user role on the Discord server. Discord can be used on all of our game types as an extra feature. We also offer it as a stand-alone option, where your store will just be for your Discord server.
 
 ## How do I configure my server?
 
