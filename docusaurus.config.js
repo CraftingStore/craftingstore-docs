@@ -41,6 +41,10 @@ module.exports = {
     [require.resolve('@cmfcmf/docusaurus-search-local'), {
       docsRouteBasePath: '/',
       indexBlog: false,
+      lunr: {
+        titleBoost: 10,
+        contentBoost: 0
+      }
     }]
   ],
 };
