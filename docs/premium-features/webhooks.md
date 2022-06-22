@@ -9,8 +9,8 @@ We offer the ability to send webhooks to your endpoints using JSON on the Gold p
 *{payment_name}* = The combined name of what the user bought    
 *{coupon}* = The coupon used    
 *{player_ip}* = The user's IP   
-*{price}* = The amount paid 
-*{referred_by}* = The user that was entered as the referral 
+*{price}* = The amount paid   
+*{referred_by}* = The user that was entered as the referral   
 *{email}* = The user's email    
 *{timestamp}* = The unix timestamp of the payment   
 *{transaction_id}* = The CraftingStore transaction ID   
@@ -19,7 +19,7 @@ We offer the ability to send webhooks to your endpoints using JSON on the Gold p
 *{last_name}* = The user's last name    
 *{address_line_one}* = The user's address line  
 *{address_line_two}* = The user's address line  
-*{address_city}* = The user's city  
+*{address_city}* = The user's city    
 *{address_state}* = The user's state    
 *{address_zip}* = The user's zip code    
 *{address_country_name}* = The user's country name  
