@@ -31,3 +31,31 @@ We'll add a "X-Signature" header to all of our calls to your endpoint. You can c
 // PHP Example
 hash_hmac('sha256', $rawRequestContent, 'secretKey');
 ```
+
+### What should I enter at the payload section?
+The payload section expects JSON, you can ask a developer about this - Pretty much any web developer should be familiar with it or should be able to understand it in a short amount of time. You can use the placeholders within your payload. We did this because if you use software that expects a specific format, like Slack, then you can change it to that format and make it work.
+
+This is a quick example of a random format to get an impression. 
+```json
+{
+  "player": {
+    "name": "{in_game_name}"
+  },
+  "payment": {
+    "gateway": "{gateway}",
+    "price": "{price}",
+    "coupon": "{coupon}"
+  }
+}
+```
+
+We expect the file in minified form:
+
+```json
+{"player":{"name":"{in_game_name}"},"payment":{"gateway":"{gateway}","price":"{price}","coupon":"{coupon}"}}
+```
+
+There are various websites (like: https://jsoneditoronline.org/) that allow you to edit JSON in realtime. They show realtime errors, and allow you to change your JSON into a one-liner or return it back into a better readable format with a click. There are lots of tools online that can help you write the payload.
+
+### My webhook does not execute
+Webhooks only run for real payments (including free ones through the store) but not manual ones created on our dashboard.
