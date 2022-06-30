@@ -6,7 +6,7 @@ You can create "Timed Packages". These packages will only be enabled within the 
 
 Timed Packages can be used to activate packages within a specific timeframe (for example: A holiday). 
 
-### How to enabled tmed packages?
+### How to enabled timed packages?
 
 You can enable the feature on a per-package basis, you will find it at the "Advanced" tab when editing your package.
 
