@@ -9,4 +9,4 @@ You can add a Discord widget to your store page. This will show the online playe
 5\. Copy the ID.  
 6\. Enter the ID at the CraftingStore dashboard.
 
-How your store has a Discord widget in the sidebar.
+Now your store has a Discord widget in the sidebar.
