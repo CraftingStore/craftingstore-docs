@@ -14,4 +14,5 @@ CraftingStore has the ability to execute commands when a chargeback gets through
 2\. Click "Add Endpoint"  
 3\. Enter the following endpoint: (https://payments.cloudprotected.net/v1/callback/stripe)  
 4\. Select the following event: ``charge.dispute.created``  
-5\. Now we will be notified of new disputes, and thus we will notify your server, and execute the chargeback commands.s
+5\. After creating find the "Signing secret" at the webhook that you just created and copy & paste it into the CraftingStore dashboard under [ Payments -> Gateways -> Stripe ].  
+6\. Now we will be notified of new disputes, and thus we will notify your server, and execute the chargeback commandss.
