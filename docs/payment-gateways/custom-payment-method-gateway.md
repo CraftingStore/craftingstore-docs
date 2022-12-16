@@ -24,7 +24,7 @@ We'll add a "X-Signature" header to all of our calls to your endpoint. You can c
 hash_hmac('sha256', $rawRequestContent, 'secretKey');
 ```
 
-If you do not receive a valid signature (it does not exist, or is not valid), you'll need to respond with the following JSON body or return a "400 - bad request" status code.
+If you do not receive a valid signature (it does not exist, or is not valid), you'll need to respond with the following JSON body and return a "400 - bad request" status code.
 
 ```
 {
