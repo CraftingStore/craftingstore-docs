@@ -8,7 +8,7 @@ Our custom payment method allows you to create your own implementation. We redir
 
 The process is as follows (we'll explain more about it later in this article);  
 1\) We'll do a JSON POST request to an endpoint that you provide to us.   
-2\) We fetch the "data-&gt;url" string from this endpoint, and redirect the customer to this URL. 
+2\) We fetch the "data-&gt;url" string from this endpoint, and redirect the customer to this URL.   
 3\) The customer completes their payment, or any logic that you want, you can redirect them to a service like PayPal, or something custom, its up to you.  
 4\) When your system has confirmed that the payment has been completed, you'll have to notify our API endpoint with the transaction ID, status, and signature.   
 5\) We mark the payment as "paid" and handle the commands, just like we would do with any other payment method.
