@@ -16,7 +16,10 @@ Gold stores can set-up discord notifications. When you receive a payment, we'll 
 *{packageName}* = The name of the package  
 *{gateway}* = The payment method used  
 *{player}* = The name of the player  
-{price} = The price of the payment
+*{price}* = The price of the payment  
+*{referredBy}* = The player that referred them  
+*{uuid}* = The UUID/ID of the player (MC UUID or steamID) 
+*{discordId}* = The player's Discord user ID  
+*{discordName}* = The player's Discord user name  
 
-  
 Any new donation will trigger this webhook and sent the message to the selected channel.
