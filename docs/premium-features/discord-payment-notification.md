@@ -18,7 +18,7 @@ Gold stores can set-up discord notifications. When you receive a payment, we'll 
 *{player}* = The name of the player  
 *{price}* = The price of the payment  
 *{referredBy}* = The player that referred them  
-*{uuid}* = The UUID/ID of the player (MC UUID or steamID) 
+*{uuid}* = The UUID/ID of the player (MC UUID or steamID)   
 *{discordId}* = The player's Discord user ID  
 *{discordName}* = The player's Discord user name  
 
