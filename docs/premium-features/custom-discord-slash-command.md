@@ -3,7 +3,7 @@
 With silver and up you can configure a custom command for users to claim their roles on your Discord server, it will still use our bot, but you can change the command. If you change the bot name, it is almost fully hidden to the user.
 
 1. Go to [ Webstore -> Servers ].  
-2. Click "set-up" at your Disocrd server. We assume that you configured it. If not, please follow the "Set-up Discord server" guide.
+2. Click "set-up" at your Discord server. We assume that you configured it. If not, please follow the "Set-up Discord server" guide.
 3. Here you should see the options;    
 
 **Custom slash command:**   
