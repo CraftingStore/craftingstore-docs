@@ -1,6 +1,6 @@
 #Custom payment method (gateway)
 
-##### What is it?
+### What is it?
 
 Our custom payment method allows you to create your own implementation. We redirect the customer to a URL that you give back, and we mark the payment as "paid" when you tell use to. This allows you to implement local payment methods that we do not support (or can support). This does require technical (programming) knowledge.
 
