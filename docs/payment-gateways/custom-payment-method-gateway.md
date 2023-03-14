@@ -4,7 +4,7 @@
 
 Our custom payment method allows you to create your own implementation. We redirect the customer to a URL that you give back, and we mark the payment as "paid" when you tell use to. This allows you to implement local payment methods that we do not support (or can support). This does require technical (programming) knowledge.
 
-##### How does it work?
+### How does it work?
 
 The process is as follows (we'll explain more about it later in this article);  
 1\) We'll do a JSON POST request to an endpoint that you provide to us.   
@@ -13,9 +13,9 @@ The process is as follows (we'll explain more about it later in this article);
 4\) When your system has confirmed that the payment has been completed, you'll have to notify our API endpoint with the transaction ID, status, and signature.   
 5\) We mark the payment as "paid" and handle the commands, just like we would do with any other payment method.
 
-##### Integration
+### Integration
 
-**Checking the authenticity of the request**
+#### Checking the authenticity of the request
 
 We'll add a "X-Signature" header to all of our calls to your endpoint. You can calculate a hmac (sha256) from the raw input content (the JSON post body) and your secret key. The key you calculate, must match the one we provide in the header.
 
@@ -32,7 +32,10 @@ If you do not receive a valid signature (it does not exist, or is not valid), yo
 }
 ```
 
-**Requesting the URL (CraftingStore -&gt; Your endpoint):**  
+#### Important 
+On our end we use PHP's json_encode to calculate the hash, you can find the documentation here: https://www.php.net/manual/en/function.json-encode.php. We do not add any flags. If you use PHP to check then the example above will suffice, but if you use another programming language then you may need to check if your output will be the same. The most notable changes would be that it will encode special characters (e.g. £ will become \u00a3, this will also apply to billing information when your buyers have special characters in their name). And it will escape some slashes by default as well. Programming languages like Javascript will not escape those and will not encode special characters so you may get another signature so keep this in mine while creating your integration. 
+
+### Requesting the URL (CraftingStore -&gt; Your endpoint)
 When the customer clicks your payment method, we will do a POST request on your endpoint with information about the payment. The information includes:
 
 ```
@@ -81,7 +84,7 @@ We expect the following JSON output:
 
 This is the point where you redirect the client to whatever you want, any payment method that you've created your integrations for.
 
-##### Confirming the payment
+### Confirming the payment
 
 When the payment has been completed, and validated you'll have to notify us, so we can start processing the commands for your payment. We will only do something when we are notified about it.
 
@@ -99,10 +102,10 @@ We expect the following body:
 And a "**X-Signature**" header, with the raw JSON content as its content, and your secret key as the key, just like you use to verify our calls.
 Note: Make sure that you remove any spaces and enters before calculating the hash, the above example will become: `{"type": "paid","transactionId": "DUMMY-DUMMY-DUMMY"}`. If you do not remove those, it will reject your signature.
 
-##### Payment retention time
+### Payment retention time
 
 We will store payments for up to 7 days at the "Pending" state. Make sure to either confirm the payment before that time, or we will mark it as "invalid" and it won't run. This will happen to payments where the user stopped the process.
 
-##### Graphical representation of the flow
+### Graphical representation of the flow
 
 [![AnuVL4CfvQ.png](/img/payment-gateways/custom-payment-method-gateway/f5tute2zfp.png)](/img/payment-gateways/custom-payment-method-gateway/hyngw0kz4m.png)
