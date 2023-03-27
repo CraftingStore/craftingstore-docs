@@ -2,9 +2,9 @@
 
 When you use Cloudflare for your domain, and you receive an attack, traffic may leak to us (we see rates above 10.000 requests per second). This causes our load balancers to reject all traffic to your website, because you are above our threshold.
 
-We can automatically manage some firewall rules for your store domain. We will not touch anything else, and only need access to "Firewall Services". So no account access, DNS access, etc.
+We can automatically manage some firewall rules for your store domain. We will not touch anything else, and only need access to "Firewall Services" and "WAF". So no account access, DNS access, etc.
 
-We will only touch the firewall rules section, and only use one rule. Please do not modify it manually, that will cause issues. We can do things like; Enabling "Under attack mode" for specific countries, or create specific rules to stop common attacks.
+We will create one custom rule and update it when required, and configure IP based rate limiting. Please do not modify it manually, that will cause issues. We can do things like; Enabling "Under attack mode" for specific countries, or create specific rules to stop common attacks. These will only affect the store, never any of your other websites.
 
 > **Note**: Make sure that your Cloudflare domain is active, your key won't be valid if it still "Pending". So make sure you complete that before following this article.
 
@@ -22,11 +22,12 @@ We will only touch the firewall rules section, and only use one rule. Please do 
 \- Second box: Firewall Services  
 \- Third box: Edit  
 
-Add a second entry
+**Add a second entry**
 
 \- First box: Zone  
-\- Second box: Zone WAF
+\- Second box: Zone WAF  
 \- Third box: Edit  
+
 **&gt; Zone Resources:**  
 \- First box: Include  
 \- Second box: Specific zone  
