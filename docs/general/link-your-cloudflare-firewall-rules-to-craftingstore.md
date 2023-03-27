@@ -21,6 +21,12 @@ We will only touch the firewall rules section, and only use one rule. Please do 
 \- First box: Zone  
 \- Second box: Firewall Services  
 \- Third box: Edit  
+
+Add a second entry
+
+\- First box: Zone  
+\- Second box: Zone WAF
+\- Third box: Edit  
 **&gt; Zone Resources:**  
 \- First box: Include  
 \- Second box: Specific zone  
