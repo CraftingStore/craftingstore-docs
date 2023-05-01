@@ -38,3 +38,28 @@ body {
 #__docusaurus {
   background-color: #262b36;
 }
+
+.aa-DetachedSearchButton {
+ border: 1px solid #ffffffa1 !important; 
+ background-color: #191d24 !important;
+}
+
+.aa-DetachedSearchButtonIcon {
+  color: #ffffffa1 !important;
+}
+
+.aa-DetachedSearchButtonPlaceholder {
+  color: #ffffffa1 !important;
+}
+
+.aa-Form {
+  border: 1px solid #ffffffa1 !important;
+}
+
+.aa-Label svg, .aa-LoadingIndicator svg {
+  color: #ffffffa1 !important;
+}
+
+.aa-Input {
+  color: #ffffffa1 !important;
+}
