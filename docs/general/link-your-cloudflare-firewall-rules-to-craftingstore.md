@@ -21,18 +21,18 @@ We will create two rules by default (one at the "Custom" section, and a global r
 **&gt; Token name**: Give it any name you like, we recommend you name it something like "CraftingStore".  
 **&gt; Permissions:**   
 Make sure to add both permissions (zone WAF & Firewall Services). Otherwise your token will not be valid.
-[![permissions.png](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/swhtf7rtvd.png)](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/permissions.png)
+[![permissions.png](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/permissions.png)](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/permissions.png)
 
 **&gt; Zone Resources:**  
 Select the domain that the store will be running on.
-[![zone.png](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/swhtf7rtvd.png)](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/zone.png)
+[![zone.png](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/zone.png)](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/zone.png)
 
 **&gt; Client IP address Filtering: Leave as-is**  
 Leave the IP filter section as-is, do not try to click anything here, because you cannot go back after making a change.
-[![ip-filter.png](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/swhtf7rtvd.png)](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/ip-filter.png)
+[![ip-filter.png](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/ip-filter.png)](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/ip-filter.png)
 
 **&gt; TTL: Leave as-is**
-[![ttl.png](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/swhtf7rtvd.png)](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/ttl.png)
+[![ttl.png](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/ttl.png)](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/ttl.png)
 
 5\. Click "Continue to summary"  
 6\. Click "Create token"  
