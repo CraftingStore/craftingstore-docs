@@ -31,7 +31,7 @@ Select the domain that the store will be running on.
 Leave the IP filter section as-is, do not try to click anything here, because you cannot go back after making a change.
 [![ip-filter.png](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/ip-filter.png)](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/ip-filter.png)
 
-**&gt; TTL: Leave as-is**
+**&gt; TTL: Leave as-is**  
 [![ttl.png](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/ttl.png)](/img/general/link-your-cloudflare-firewall-rules-to-craftingstore/ttl.png)
 
 5\. Click "Continue to summary"  
