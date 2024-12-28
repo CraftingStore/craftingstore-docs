@@ -2,7 +2,7 @@
 
 You can use various placeholders for commands. These will be replaced with actual data. Currently, these are the placeholders.
 
-`{player}` - The username of the player that donated
+`{player}` - The username of the player that donated (only alphanumeric characters are allowed, we will strip out all other characters for security. Use {player_unsafe} if you want the raw input, this may lead unexpected commands so use with caution).
 
 `{uuid}` - The UUID (steamid64 for Steam games) of the player that donated
 
