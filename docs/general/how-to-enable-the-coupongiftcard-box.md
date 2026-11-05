@@ -1,4 +1,4 @@
-#How to enable the Coupon/Giftcard box.
+# How to enable the Coupon/Giftcard box.
 
 By default, the coupon and discount box is disabled. But we can enable it in a few easy steps.   
   

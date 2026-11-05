@@ -1,4 +1,4 @@
-#What placeholders can I use?
+# What placeholders can I use?
 
 You can use various placeholders for commands. These will be replaced with actual data. Currently, these are the placeholders.
 

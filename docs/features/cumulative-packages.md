@@ -1,4 +1,4 @@
-#Cumulative packages
+# Cumulative packages
 
 When creating or editing your category, you can enable "Cumulative packages", this feature allows you to give users discounts based on the packages they bought earlier.
 

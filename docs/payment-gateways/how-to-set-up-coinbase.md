@@ -1,4 +1,4 @@
-#How to set up Coinbase
+# How to set up Coinbase
 
 To set-up Coinbase Commerce to accept cyrpo on your store, follow the steps below.
   

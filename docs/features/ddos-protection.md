@@ -1,4 +1,4 @@
-#DDoS Protection
+# DDoS Protection
 
 (D)Dos is a growing threat in the online world, players or other server owners can use those to make your server, webstore, website, etc. unavailable for the public. To fight this, we offer basic DDoS protection for all webstores.  
   

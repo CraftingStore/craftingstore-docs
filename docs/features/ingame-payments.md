@@ -1,4 +1,4 @@
-#In-game payments
+# In-game payments
 
 On our Spigot/Bukkit plugin, we support "In-game payments". This allows the buyer to pay with in-game money (using Vault) instead of real money. This can be used to be EULA compliant.
 

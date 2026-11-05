@@ -1,4 +1,4 @@
-#Using custom HTML for your E-mails
+# Using custom HTML for your E-mails
 
 With our silver plan, you can modify the e-mail template. This will modify the HTML. The store will use the active template and look for the "receipt.html".
 

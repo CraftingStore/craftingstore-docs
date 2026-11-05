@@ -1,4 +1,4 @@
-#Custom payment method (gateway)
+# Custom payment method (gateway)
 
 ### What is it?
 

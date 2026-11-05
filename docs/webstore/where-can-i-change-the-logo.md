@@ -1,4 +1,4 @@
-#Where can I change the logo?
+# Where can I change the logo?
 
 You can change the logo through our dashboard, the logo changer is located in the Design section.
 

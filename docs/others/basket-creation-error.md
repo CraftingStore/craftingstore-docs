@@ -1,4 +1,4 @@
-#Cannot create a basket
+# Cannot create a basket
 
 Your store might say "Something went wrong while creating your shopping basket" there can be a few reasons for why this is happening.
 

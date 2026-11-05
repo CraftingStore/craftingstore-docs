@@ -1,4 +1,4 @@
-#Custom Discord Slash Command
+# Custom Discord Slash Command
 
 With silver and up you can configure a custom command for users to claim their roles on your Discord server, it will still use our bot, but you can change the command. If you change the bot name, it is almost fully hidden to the user.
 

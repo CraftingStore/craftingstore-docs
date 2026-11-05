@@ -1,4 +1,4 @@
-#How to enable debug mode?
+# How to enable debug mode?
 
 ### Spigot/CraftBukkit/BungeeCord:
 1) Open the config located in /plugins/CraftingStore/config.yml  

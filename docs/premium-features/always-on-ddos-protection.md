@@ -1,4 +1,4 @@
-#Always-On DDoS Protection
+# Always-On DDoS Protection
 
 For stores on our Platinum plan we use Cloudflare's DDoS Protection (always-on). On all other plans we use a mix of providers and services depending on the state of the domain (e.g. under attack or not).
 

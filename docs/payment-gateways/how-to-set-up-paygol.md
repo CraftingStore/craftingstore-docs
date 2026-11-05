@@ -1,4 +1,4 @@
-#How to set up PayGol
+# How to set up PayGol
 
 Setting up PayGol is really easy to do, just follow the steps below.   
   

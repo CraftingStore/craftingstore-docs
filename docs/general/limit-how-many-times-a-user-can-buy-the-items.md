@@ -1,4 +1,4 @@
-#Limit how many times a user can buy the items.
+# Limit how many times a user can buy the items.
 
 You can limit how many times a user can buy a specific package.
 

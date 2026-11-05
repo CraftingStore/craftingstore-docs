@@ -1,4 +1,4 @@
-#How to set up PayPal (Legacy/Personal)
+# How to set up PayPal (Legacy/Personal)
 
 We offer PayPal as a direct gateway to our platform. Setting up PayPal on your CraftingStore account is easy to do in a few steps. The following guide works for (most) personal accounts, and Business accounts. This method will use PayPal's payment button system.   
   

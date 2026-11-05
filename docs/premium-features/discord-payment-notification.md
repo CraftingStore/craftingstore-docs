@@ -1,4 +1,4 @@
-#Discord payment notification
+# Discord payment notification
 
 Gold stores can set-up discord notifications. When you receive a payment, we'll send you a message using Discord's webhooks.
 

@@ -1,4 +1,4 @@
-#How to set-up Stripe
+# How to set-up Stripe
 
 Stripe is a payment gateway that can be used for Creditcards and various other payment methods. 
 

@@ -1,4 +1,4 @@
-#Manual payment
+# Manual payment
 
 The manual payment feature is useful when you want to test out your payments.
 

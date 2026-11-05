@@ -1,4 +1,4 @@
-#How to create a category
+# How to create a category
 
 Categories are used to store packages. They add structure to your store. You can have a category named "Kits" with only kits.
 

@@ -1,4 +1,4 @@
-#When I click checkout the page just redirects
+# When I click checkout the page just redirects
 
 When you click checkout at the store, we will create a payment for your store and redirect the customer. But it might happen that the page just refreshes. The biggest cause of this that no gateways are set-up.
 

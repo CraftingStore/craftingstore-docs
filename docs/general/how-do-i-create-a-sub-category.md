@@ -1,4 +1,4 @@
-#How do I create a sub-category?
+# How do I create a sub-category?
 
 Sub-categories are categories that fall under a normal category. They will be available in the dropdown on your shop.
 

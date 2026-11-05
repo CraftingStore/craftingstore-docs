@@ -1,4 +1,4 @@
-#Two-factor Authentication
+# Two-factor Authentication
 
 Two factor authentication is required on CraftingStore. There are two types.
 

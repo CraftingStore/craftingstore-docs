@@ -1,4 +1,4 @@
-#What are the partnership requirements?
+# What are the partnership requirements?
 
 We offer partnerships to service providers or content creators. We do not have fixed requirements for this.
 

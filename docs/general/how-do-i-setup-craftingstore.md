@@ -1,4 +1,4 @@
-#How do I setup CraftingStore?
+# How do I setup CraftingStore?
 
 This guide will get you started with CraftingStore in no-time!
 

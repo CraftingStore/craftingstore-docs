@@ -1,4 +1,4 @@
-#How does upgrading my plan work? Will I lose any days?
+# How does upgrading my plan work? Will I lose any days?
 
 Let's say we have three plans;  
 \- Plan 1: 10 EUR/month  

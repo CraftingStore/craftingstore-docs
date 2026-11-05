@@ -1,4 +1,4 @@
-#How to set up Terminal3 (Paymentwall)
+# How to set up Terminal3 (Paymentwall)
 
 To set-up PaymentWall, you will need a LIVE application on Paymentwall. You can create one, and contact the support with your business model so they can activate your account.
 

@@ -1,4 +1,4 @@
-#My sales do not apply.
+# My sales do not apply.
 
 Sales are applied to the selected categories, packages or the whole store. But they will only show if they are enabled, in this post we describe some settings that might make your sales not go live.
 

@@ -1,4 +1,4 @@
-#My package is not showing up.
+# My package is not showing up.
 
 If your package is not showing up on your store, there are several things you should check:  
   

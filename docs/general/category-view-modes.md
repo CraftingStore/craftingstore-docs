@@ -1,4 +1,4 @@
-#Category view modes
+# Category view modes
 
 Categories can have one of two view modes, we will describe both here.
 

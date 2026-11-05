@@ -1,4 +1,4 @@
-#Counter-Strike
+# Counter-Strike
 
 For CS:GO we use RCON, most Source games, like CS:GO have support for this.
 

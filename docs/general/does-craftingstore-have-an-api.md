@@ -1,4 +1,4 @@
-#Does CraftingStore have an API?
+# Does CraftingStore have an API?
 
 We do currently have a BETA API that you can use for some tasks on your server.
 

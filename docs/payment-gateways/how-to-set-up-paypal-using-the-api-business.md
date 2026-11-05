@@ -1,4 +1,4 @@
-#How to set-up PayPal using the API (Business)
+# How to set-up PayPal using the API (Business)
 
 We offer direct PayPal integration into our platform, we have two types of integration; PayPal Legacy (for personal accounts) ([click here for the article](/payment-gateways/how-to-set-up-paypal-legacypersonal)). And this one, using the PayPal API. This integration allows us to have more control and offer more features (like Subscriptions). A PayPal business account is required, it will not work on personal accounts.
 

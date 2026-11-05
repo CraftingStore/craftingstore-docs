@@ -1,4 +1,4 @@
-#PlaceholderAPI placeholders
+# PlaceholderAPI placeholders
 
 Our plugin has integration with PlaceholderAPI, this allows you to use some placeholders in other plugins. The only requirements are the CraftingStore plugin, PlaceholderAPI, and a plugin that supports PlaceholderAPI. No other configuration or addons are required. There is no need to download any other extensions, like ECloud addons.
 

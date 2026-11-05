@@ -1,4 +1,4 @@
-#Cant checkout
+# Cant checkout
 
 By default, there are no active payment gateways, before you can checkout gateways need to be added.
 

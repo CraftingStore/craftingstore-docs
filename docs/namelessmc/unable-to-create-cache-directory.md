@@ -1,4 +1,4 @@
-#The cache directory cannot be created
+# The cache directory cannot be created
 
 You might get an error that the cache folder cannot be created. This is a permission issue.
 

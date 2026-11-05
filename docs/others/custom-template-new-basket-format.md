@@ -1,4 +1,4 @@
-#Custom Template: New basket format
+# Custom Template: New basket format
 
 Af of 22/09/2020 we made some required modifications to the template, make sure you modify your template to reflect these changes, or the sub-total showed will not be valid in some cases.
 

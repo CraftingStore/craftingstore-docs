@@ -1,4 +1,4 @@
-#Dealing with PayPal chargebacks
+# Dealing with PayPal chargebacks
 
 Before you start reading: This is not a silver bullet, this article is based on our general understanding of PayPal's action center and dispute handling.
 

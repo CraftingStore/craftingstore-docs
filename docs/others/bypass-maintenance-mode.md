@@ -1,4 +1,4 @@
-#Bypass maintenance mode
+# Bypass maintenance mode
 
 As a store owner, you may want to view the store while its in maintenance mode. To view the store follow the steps below.
 

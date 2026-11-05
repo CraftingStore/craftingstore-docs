@@ -1,4 +1,4 @@
-#How do I cancel my account?
+# How do I cancel my account?
 
 To close your account, you will need to follow these steps:  
 1\. Log in to your account and go to the profile section at the right top.  

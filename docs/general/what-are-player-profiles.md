@@ -1,4 +1,4 @@
-#What are player profiles?
+# What are player profiles?
 
 A player profile is a confirmation that you own a specific E-mail address or Minecraft UUID.
 

@@ -1,4 +1,4 @@
-#My store connection is not secure
+# My store connection is not secure
 
 If your store tells you that the connection is "not secure", you can follow these steps to get this resolved.
 

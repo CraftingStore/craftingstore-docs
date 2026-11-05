@@ -1,4 +1,4 @@
-#NamelessMC integration
+# NamelessMC integration
 
 We've built a basic NamelessMC integration that allows you to show your packages &amp; categories on your own website directly
 

@@ -1,4 +1,4 @@
-#E-mail receipt
+# E-mail receipt
 
 E-mail receipts are E-mails that we send to your customers when they buy a package. This receipt can be used as a payment confirmation, so they can store it, or give you proof of payment.
 

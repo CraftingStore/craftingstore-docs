@@ -1,4 +1,4 @@
-#What placeholders can I use for the package click command?
+# What placeholders can I use for the package click command?
 
 You can use the following placeholders to show in the Minecraft click message:
 

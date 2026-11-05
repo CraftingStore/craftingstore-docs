@@ -1,4 +1,4 @@
-#Change the currency
+# Change the currency
 
 By default, your store will use Dollars, but you can change it to any other currency. Follow the steps below to change it:  
   

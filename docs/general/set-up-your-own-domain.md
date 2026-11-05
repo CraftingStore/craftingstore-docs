@@ -1,4 +1,4 @@
-#Set-up your own domain
+# Set-up your own domain
 
 We offer the ability to use your own (sub)domain for your webstore. This is available for all the plans.
 

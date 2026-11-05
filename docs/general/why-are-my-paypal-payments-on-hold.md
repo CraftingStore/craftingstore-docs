@@ -1,4 +1,4 @@
-#Why are my PayPal payments on-hold?
+# Why are my PayPal payments on-hold?
 
 We have gotten some tickets from store owners, asking us why their incoming PayPal payments are on-hold. We do not yet have full picture. But this is what we know currently. We have been aware of this since ~**15 January, 2021**.
 

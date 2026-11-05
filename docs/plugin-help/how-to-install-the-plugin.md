@@ -1,4 +1,4 @@
-#How to install the plugin?
+# How to install the plugin?
 
 ### Minecraft: Java Edition - Spigot, Bukkit, Sponge, BungeeCord, and Velocity
 

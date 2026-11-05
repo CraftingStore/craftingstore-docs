@@ -1,4 +1,4 @@
-#Minecraft: Java Edition
+# Minecraft: Java Edition
 
 We have a plugin for Minecraft servers. Our plugin has support for Spigot (and most forks, like PaperSpigot), Craftbukkit, Bungeecord, Sponge, and Velocity.
 

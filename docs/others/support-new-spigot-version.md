@@ -1,4 +1,4 @@
-#Does CraftingStore support the new Spigot
+# Does CraftingStore support the new Spigot
 
 Our plugin supports every Spigot version above and including 1.8. 
 

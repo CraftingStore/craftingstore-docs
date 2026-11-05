@@ -1,4 +1,4 @@
-#How to enable Coupons?
+# How to enable Coupons?
 
 Coupons and Gift-cards are disabled by default, you can enable them within your settings page on the dashboard.
 

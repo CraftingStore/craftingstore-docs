@@ -1,4 +1,4 @@
-#Coupon codes
+# Coupon codes
 
 Coupon codes give you the ability to create discount codes for your server. You can use this feature to give your customers a "NEWYEAR" discount on your store.
 

@@ -1,4 +1,4 @@
-#Do you support CloudNet?
+# Do you support CloudNet?
 
 Cloudnet is a system that can help manage your network. You can use it with CraftingStore, but not with a direct integration. This guide explains how.
 

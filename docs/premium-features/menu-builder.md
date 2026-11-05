@@ -1,4 +1,4 @@
-#Menu builder
+# Menu builder
 
 The menu builder allows you to build inventories from the dashboard. You can create a menu and drag &amp; drop the packages, categories, other menus, or utility items (close and back) directly into the field. It will be translated directly into the plugin.
 

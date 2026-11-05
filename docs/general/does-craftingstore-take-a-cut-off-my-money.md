@@ -1,4 +1,4 @@
-#Does CraftingStore take a cut off my money?
+# Does CraftingStore take a cut off my money?
 
 When doing payments online, there are always fees, as that is how payment providers make money.
 

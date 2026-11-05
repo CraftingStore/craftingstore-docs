@@ -1,4 +1,4 @@
-#My commands do not run on the server
+# My commands do not run on the server
 
 If the commands on your server do not run, there are various reasons for why this is, follow the steps below.
 

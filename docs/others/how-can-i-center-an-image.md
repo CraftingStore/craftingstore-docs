@@ -1,4 +1,4 @@
-#How can I center an image?
+# How can I center an image?
 
 Images are aligned to the left by default, you can center them by adding some CSS style to the image. It does require very basic knowledge of HTML, because you'll need to find out where to add it.
 

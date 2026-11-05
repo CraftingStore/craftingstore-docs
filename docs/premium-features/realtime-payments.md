@@ -1,4 +1,4 @@
-#Realtime payments
+# Realtime payments
 
 Silver stores and up will use our new real-time socket connection system to get instant (real-time) payments.  
 

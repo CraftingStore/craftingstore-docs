@@ -1,4 +1,4 @@
-#Integrate CraftingStore into your website
+# Integrate CraftingStore into your website
 
 There are a few ways how you can include your store into your website, some are better than others. We'll explain a few possibilities.
 

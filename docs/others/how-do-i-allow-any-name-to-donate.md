@@ -1,4 +1,4 @@
-#How do I allow any name to donate?
+# How do I allow any name to donate?
 
 You can disable premiun name checking, you can do so from \[ Settings -&gt; Webshop -&gt; Require premium name: No \].
 

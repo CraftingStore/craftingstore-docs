@@ -1,4 +1,4 @@
-#Setting up the Discord widget
+# Setting up the Discord widget
 
 You can add a Discord widget to your store page. This will show the online players on your store.
 

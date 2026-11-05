@@ -1,4 +1,4 @@
-#Hurtworld
+# Hurtworld
 
 We have a plugin for the uMod/Oxide mod platform. You can use this plugin to execute commands. 
 

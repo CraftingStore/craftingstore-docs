@@ -1,4 +1,4 @@
-#Subscription support
+# Subscription support
 
 Our subscription feature allows you to charge your players automatically every day, week, month, or year. This article explains the functionality and how you can use it. **Note: This feature requires the Silver plan!**
 

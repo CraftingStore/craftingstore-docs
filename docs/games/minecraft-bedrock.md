@@ -1,4 +1,4 @@
-#Minecraft: Bedrock Edition
+# Minecraft: Bedrock Edition
 
 For Minecraft Bedrock edition, we use RCON. A simple way of sending commands to the console.
 

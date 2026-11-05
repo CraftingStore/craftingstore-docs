@@ -1,4 +1,4 @@
-#Giving players information
+# Giving players information
 
 Some games have specific rules before you can sell items within their games. These are some examples, and how you can do it. Please always check the requirements yourself, this is not legal advice, nor is it a complete set of rules. This article only exists to help you find the right information.
 

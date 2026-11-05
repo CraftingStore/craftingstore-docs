@@ -1,4 +1,4 @@
-#The plugin is not working
+# The plugin is not working
 
 If the plugin is not working correctly you can check several things to find out what is wrong, we explained some possible problems, and solutions.
 

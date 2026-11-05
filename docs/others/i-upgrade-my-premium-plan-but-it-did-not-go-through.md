@@ -1,4 +1,4 @@
-#I upgrade my premium plan but it did not go through
+# I upgrade my premium plan but it did not go through
 
 If you have upgraded your store to a higher plan, it might be the case that it is not processed instantly. If you have paid through PayPal, it might be because of a PayPal security check.
 

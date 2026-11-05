@@ -1,4 +1,4 @@
-#Custom Discord Bot
+# Custom Discord Bot
 
 On the **gold plan** and above you have the ability to use a custom discord bot for letting players claim their roles. Our bot will still need to be on your server, and our bot will still issue the actual commands. But you can disable the default "/claimroles" command and let players use the one from your custom bot. And because it uses a bot from your Discord account, you have control over its avatar and name.
 

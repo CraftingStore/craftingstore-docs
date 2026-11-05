@@ -1,4 +1,4 @@
-#I configured my gateway, but it is not showing up
+# I configured my gateway, but it is not showing up
 
 It might happen that you've configured a payment method, but it does not show in your store. This can have various reasons. Please check the following things before opening up a support ticket;
 

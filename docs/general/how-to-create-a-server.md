@@ -1,4 +1,4 @@
-#How to create a server
+# How to create a server
 
 CraftingStore uses servers (API Tokens) to communicate with the plugin. This guide will help you with creating a new server.
 

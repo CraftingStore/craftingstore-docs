@@ -1,4 +1,4 @@
-#Community Goals
+# Community Goals
 
 With community goals, you can stimulate your players to donate to your game server. A community goal can result in commands being executed on any/some of your servers, you can start something like a drop-party, or a global multiplier. You can configure what packages should count towards this community goal, and show a widget/module on your shop to show your players how it's going.
 

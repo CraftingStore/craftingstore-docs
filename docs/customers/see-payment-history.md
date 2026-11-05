@@ -1,4 +1,4 @@
-#See Payment History
+# See Payment History
 
 As a player of a game-server, you can view payment history for any payment done using your email. This allows you to see what you've bought over the years on any store that is powerd by CraftingStore.
 

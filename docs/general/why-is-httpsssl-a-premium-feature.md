@@ -1,4 +1,4 @@
-#Why is HTTPS/SSL a premium feature?
+# Why is HTTPS/SSL a premium feature?
 
 Sometimes we get asked why HTTPS is a premium feature, so this article is created to explain. But first, we need to clear some things up: HTTPS is not premium-only, in the sense that we only allow it on premium stores;
 

@@ -1,4 +1,4 @@
-#Store Loading Slow
+# Store Loading Slow
 
 We sometimes get tickets about stores loading slow, these are a few reasons that might be the cause of that.
 

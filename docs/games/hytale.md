@@ -1,4 +1,4 @@
-#Hytale
+# Hytale
 
 We have a plugin that supports the official Hytale server! It has all the features that you need, from realtime command processing to only running commands for online players.
 

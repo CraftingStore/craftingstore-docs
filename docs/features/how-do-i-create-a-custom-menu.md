@@ -1,4 +1,4 @@
-#How do I create a custom menu?
+# How do I create a custom menu?
 
 With our custom menu's feature on our Gold plan, you can create menu's in any layout you like. You can drag &amp; drop packages, categories, or items, to their desired place.
 

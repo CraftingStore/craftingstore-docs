@@ -1,4 +1,4 @@
-#CraftingStore sub-domain
+# CraftingStore sub-domain
 
 If you do not own any domain, you can use ours instead to get started quickly. 
 

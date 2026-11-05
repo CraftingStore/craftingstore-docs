@@ -1,4 +1,4 @@
-#Set up SSL certificates for your store
+# Set up SSL certificates for your store
 
 In this tutorial, we will help you to set-up SSL on your own domain, with CraftingStore. We already offer free SSL on all sub-domains (e.g. example.craftingstore.net).
 

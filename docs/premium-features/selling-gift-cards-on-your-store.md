@@ -1,4 +1,4 @@
-#Selling gift-cards on your store
+# Selling gift-cards on your store
 
 With the silver plan and higher, you can use Gift-cards, and sell them on your store. You can configure packages to give the user a gift-card in their mail.
 

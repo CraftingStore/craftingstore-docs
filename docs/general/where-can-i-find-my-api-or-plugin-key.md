@@ -1,4 +1,4 @@
-#Where can I find my API or Plugin key?
+# Where can I find my API or Plugin key?
 
 Your plugin/API key is the server key. You can create as many keys as you like. This way you can let commands run on specific servers.
 

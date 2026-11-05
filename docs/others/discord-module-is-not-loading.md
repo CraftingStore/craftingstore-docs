@@ -1,4 +1,4 @@
-#Discord module is not loading
+# Discord module is not loading
 
 In some cases the Discord module will not load, this is caused by the widget being disabled.
 

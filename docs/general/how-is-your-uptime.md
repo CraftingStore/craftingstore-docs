@@ -1,4 +1,4 @@
-#How is your uptime/reliability
+# How is your uptime/reliability
 
 We understand that reliability and uptime are very important for any online business, especially in the online gaming world. We designed our infrastructure to be as reliable and stable as possible.
 

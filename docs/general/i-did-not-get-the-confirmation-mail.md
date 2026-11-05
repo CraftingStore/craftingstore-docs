@@ -1,4 +1,4 @@
-#I did not get the confirmation mail
+# I did not get the confirmation mail
 
 We require stores to have a confirmed account before creating more than 5 packages, CraftingStore will E-mail you a link the moment you sign up.
 

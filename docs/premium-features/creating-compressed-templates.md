@@ -1,4 +1,4 @@
-#Creating compressed templates
+# Creating compressed templates
 
 Templates can be installed by uploading a zip with the .html files. The files must be directly in the zip, not in a subfolder.
 

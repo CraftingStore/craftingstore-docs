@@ -1,4 +1,4 @@
-#Changing the webstore name
+# Changing the webstore name
 
 You can modify the webstore name from the webstore settings.
 

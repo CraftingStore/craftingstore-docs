@@ -1,4 +1,4 @@
-#How do I make a test payment?
+# How do I make a test payment?
 
 You can use "Manual payments" to create test payments.
 

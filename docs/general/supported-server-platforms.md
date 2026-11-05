@@ -1,4 +1,4 @@
-#Supported server platforms
+# Supported server platforms
 
 We currently support multiple server platforms with our plugin, please read below to find out.
 

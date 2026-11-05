@@ -1,4 +1,4 @@
-#Use CraftingStore on a BungeeCord network
+# Use CraftingStore on a BungeeCord network
 
 Our plugin works for Spigot, BungeeCord, Sponge, CraftBukkit, and more to come, but if I'm running my BungeeCord server network with Spigot backend servers, how do I need to install CraftingStore? Do I need to install the plugin on my BungeeCord, on all my Spigot servers? Both? Well, it depends on your requirements, let's look at the options.
 

@@ -1,4 +1,4 @@
-#Packages are not added to the basket
+# Packages are not added to the basket
 
 In some cases, packages will not be added to the basket, this happens because they reached a limit that you've set in the package settings.
 

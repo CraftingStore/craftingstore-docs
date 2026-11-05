@@ -1,4 +1,4 @@
-#Template variables
+# Template variables
 
 This document lists the variables that you can use when editing templates, they are grouped by page as not all pages have access to the same variables. You can also use default variables from Twig.
 

@@ -1,4 +1,4 @@
-#How do I remove my store?
+# How do I remove my store?
 
 You can remove stores from your account, but the store you want to remove needs the following requirements:   
   

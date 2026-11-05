@@ -1,4 +1,4 @@
-#Gift cards
+# Gift cards
 
 A gift card is used to give players "credit" for your webshop. You can generate a unique key within the dashboard, and the player can use this key to get a discount, or to get the package for free (depends on the amount chosen by you).   
   

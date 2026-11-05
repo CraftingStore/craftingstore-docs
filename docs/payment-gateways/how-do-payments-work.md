@@ -1,4 +1,4 @@
-#How do payments work
+# How do payments work
 
 CraftingStore integrates with third-party payment gateways that will process the payments. CraftingStore will get notified by those payment gateways, confirm the payments, and run the configured actions.
 

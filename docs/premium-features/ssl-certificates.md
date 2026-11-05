@@ -1,4 +1,4 @@
-#SSL Certificates
+# SSL Certificates
 
 We offer the ability to request an SSL certificate for your website (on silver and higher). This can help you boost the sales, and every player will see a green lock in the URL bar.   
   

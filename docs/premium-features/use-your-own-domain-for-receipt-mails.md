@@ -1,4 +1,4 @@
-#Use your own domain for receipt mails.
+# Use your own domain for receipt mails.
 
 This feature allows you to send E-mails through your own custom SMTP servers, with your own domain.
 

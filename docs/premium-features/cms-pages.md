@@ -1,4 +1,4 @@
-#CMS pages
+# CMS pages
 
 A CMS (Content management system), is a place where you can create all sorts of things; Pages, blog posts etc. But for our system, we'll just focus on pages.   
   

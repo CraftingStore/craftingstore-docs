@@ -1,4 +1,4 @@
-#How to create coupon codes
+# How to create coupon codes
 
 Coupon codes are handy to give discounts to users, and boost sales.
 

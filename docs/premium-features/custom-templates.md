@@ -1,4 +1,4 @@
-#Custom Templates
+# Custom Templates
 
 We offer a full template system for premium stores. You can customize the HTML and CSS for your whole store. There are various templates available online for the CraftingStore platform.
 

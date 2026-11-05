@@ -1,4 +1,4 @@
-#7 Days to Die
+# 7 Days to Die
 
 We have a plugin for the uMod/Oxide mod platform. You can use this plugin to execute commands. 
 

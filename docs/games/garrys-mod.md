@@ -1,4 +1,4 @@
-#Garry's Mod
+# Garry's Mod
 
 For Garry's Mod we use RCON, most Source games, like Garry's Mod have support for this.
 

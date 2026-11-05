@@ -1,4 +1,4 @@
-#See ticket replies
+# See ticket replies
 
 All ticket replies are done through email. If you created a ticket at our dashboard you will receive the response in your mailbox.
 

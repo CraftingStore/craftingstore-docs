@@ -1,4 +1,4 @@
-#Link your Cloudflare firewall rules to CraftingStore
+# Link your Cloudflare firewall rules to CraftingStore
 
 When you use Cloudflare for your domain, and you receive an attack, traffic may leak to us (we see rates above 10.000 requests per second). This causes our load balancers to reject all traffic to your website, because you are above our threshold.
 

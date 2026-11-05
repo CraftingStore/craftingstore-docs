@@ -1,4 +1,4 @@
-#Team Accounts
+# Team Accounts
 
 Some servers have multiple overs, with Team Accounts you can give someone access to your store without needing to share your password. We have had various reports from store owners that lost their account because of a problem with their co-owner.
 
