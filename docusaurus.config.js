@@ -5,7 +5,12 @@ module.exports = {
   url: 'https://help.craftingstore.net',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    format: 'detect',
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
   favicon: 'img/favicon.png',
   organizationName: 'craftingstore',
   projectName: 'craftingstore-docs',
@@ -39,7 +44,6 @@ module.exports = {
   ],
   plugins: [
     [require.resolve('@cmfcmf/docusaurus-search-local'), {
-      docsRouteBasePath: '/',
       indexBlog: false,
       lunr: {
         titleBoost: 10,
